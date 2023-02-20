@@ -1,4 +1,9 @@
 //This code is written by Harshit Gupta(Certifyme).
+const username="your account of certifyme"; 
+// This line declares a global constant variable named username and assigns it the value "your account of certifyme".
+const password="your password of certifyme";    
+// This line declares a global constant variable named password and assigns it the value "your password of certifyme".
+
 const express= require('express') // This line imports the Express.js module and assigns it to the variable express.
 const axios = require('axios')  // This line imports the Axios library and assigns it to the variable axios.
 const port = process.env.PORT || 3000;  
@@ -11,10 +16,7 @@ const path = require('path') // This line imports the built-in Node.js path modu
 var name;   // This line declares a global variable named 'name' without assigning it a value.
 var email;   // This line declares a global variable named 'email' without assigning it a value.
 
-const username="your account of certifyme"; 
-// This line declares a global constant variable named username and assigns it the value "your account of certifyme".
-const password="your password of certifyme";    
-// This line declares a global constant variable named password and assigns it the value "your password of certifyme".
+
 
 app.use(bodyParser.urlencoded({extended: true})) 
 // This line adds middleware to the Express app that parses incoming request bodies
