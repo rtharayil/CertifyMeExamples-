@@ -5,6 +5,13 @@ Thank you for considering our Google Form Add-on.
 At CertifyMe, we take privacy seriously and are committed to protecting the personal information of our users.
 This privacy policy explains what information we collect through our Google Form Add-on, how we use it, and how we protect it.
 
+#DISCLOSURE
+
+As the creators of CertifyMe Google Form Add-on, we want to ensure our users that we adhere to Google's Limited Use requirements and API Services User Data Policy.
+Any data obtained through the Google APIs will only be used for issuing certificates via our add-on and will not be shared with third-party applications. 
+Our privacy policy and terms of use apply to all data collected by CertifyMe Google Form Add-on. 
+For more information, please refer to Google's API Services User Data Policy(https://developers.google.com/terms/api-services-user-data-policy) and Limited Use requirements(https://developers.google.com/terms).
+
 #Information We Collect
 
 Our Google Form Add-on uses a minimum amount of scopes, including two default scopes provided by Google and three additional scopes provided by Google Forms Script Editor.
@@ -51,12 +58,6 @@ The use and transfer of information collected through the CertifyMe Google Form 
 Our company's Privacy Policy and Terms of Use are specific to the use of the CertifyMe Google Form Add-on and do not extend to any other third-party apps or services. 
 By using the CertifyMe Google Form Add-on, you acknowledge and agree to our Privacy Policy and Terms of Use.
 
-#DISCLOSURE
-
-We want to let our users know that our CertifyMe Google Form Add-on adheres to the Limited Use requirements and Google API Services User Data Policy. 
-This means that any information received from Google APIs will only be used for the purposes of issuing certificates through our add-on, and will not be shared with any third-party applications.
-We provide this disclosure to ensure that our add-on is compliant with all relevant policies and regulations.
-Our users can be assured that any data collected through the CertifyMe Google Form Add-on will be subject to our privacy policy and terms of use, as well as Google's API Services User Data Policy.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------Terms of Use---------------------------------------------------------------------------------------
