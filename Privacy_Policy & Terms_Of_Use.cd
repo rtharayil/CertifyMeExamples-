@@ -10,6 +10,7 @@ This privacy policy explains what information we collect through our Google Form
 As the creators of CertifyMe Google Form Add-on, we want to ensure our users that we adhere to Google's Limited Use requirements and API Services User Data Policy.
 Any data obtained through the Google APIs will only be used for issuing certificates via our add-on and will not be shared with third-party applications. 
 Our privacy policy and terms of use apply to all data collected by CertifyMe Google Form Add-on. 
+We are not using any restricted scopes but only using the sensitive scopes and which are already explained below and as per the google api user data policy only.
 For more information, please refer to Google's API Services User Data Policy(https://developers.google.com/terms/api-services-user-data-policy) and Limited Use requirements(https://developers.google.com/terms).
 
 #Information We Collect
